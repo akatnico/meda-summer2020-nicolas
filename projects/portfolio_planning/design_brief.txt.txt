@@ -1,4 +1,0 @@
-The permanent marker font for the headings. These fonts are meant to be attention grabbers. The text will be in white. Clickable texts(links) will be yellow. Those clickable texts will turn red/orange once it's used to display that the link was visited already.
-
-The main background will be in black. This design is meant to mimic the night mode for eye sensitivity.
-

@@ -1,0 +1,28 @@
+A) I'll start with the headings with Permanent Marker font. This is meant to act as an attention grabber. The body text will be in Arial font. The links will be in Roboto font.  
+
+The main background will be in #FFFFFF. This is to provide a clear contrast from the text. The text for the headers and body will be in #000000. The clickable texts(links) will also be in #000000 but when you hover over the text with the cursor it'll turn into #0000FF. Those particular texts will turn into #FF0000 once the links are visited(clicked).
+
+The font sizes will vary. The body text will be in 16px. The links will be 16x as well. The headers will be in 24px. 
+
+D) The HOME PAGE will act as the ABOUT ME PAGE and will contain the following text:
+
+Nicolas A. Paz(in bold text placed seperately).
+
+ABOUT ME: I am an inspiring web developer and UX designer based out of the Bay Area. I am currently studying web developement and graphic design at MEDA. The skills I have gained are HTML, CSS, and graphic design. I also have experience with the adobe applications such as Adobe Photoshop and Illustrator.
+
+I am also a recent graduate from the University of California - Santa Cruz. I studied anthropology with concentrations in the sociocultural and linguistic sub-fields. My academic experience in anthropology has provided me with the skill set to conduct research on various aspects of human society through qualitative/quantitative methods in ethnographic accounts. Using my education can complement UX/UI.
+
+PROJECTS PAGE will contain personal projects I have recently worked on.
+
+CONTACT PAGE will contain my email and phone #.
+ 
+E) http://fevenamenu.com/home.html 
+This portfolio is one of my favorites. The placement of the header with the contents is where I gain my influence because I plan to have my header placed on the left side instead of the top. The only part I didn't like was the portfolio page which was its own page. It was overwhleming with content but perhaps that has to do with my lack of knowledge of the field. Overall I liked every other aspect of the website, font, colors and images complemented eachother really well.
+
+http://www.studio-steve.de/
+I really liked the imagery on this website but I felt that black and white photos used in the background on the main page made it a little difficult to see the text (header) on the page since the text was grey. The font size was little small as well. The font style gave the page a nice touch. 
+
+https://clementgrellier.fr/
+This portfolio website was really interesting. As you scroll down the page, the background color changed with the topic. The issue I had with this was that some of the text had a similar color to the background which made it slightly difficult to read. I would prefer it was more visible for usability purposes. The header is on the leftside.
+ 
+As far as I'm aware of, none of these websites had a footer.
