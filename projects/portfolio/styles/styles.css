@@ -11,6 +11,7 @@ body {
 
 
 #header {
+    position: fixed;
     float: left;
     width: 180px;
     height: auto;
@@ -56,12 +57,27 @@ body {
     color: #0000FF;
 }
 
+#body {
+    position: absolute;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#body h1 {
+    font-family: cursive;
+    text-align: center;
+}
+
+#body img {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
 #footer {
     position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  color: #000000;
-  text-align: center;
-  
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: #000000;
+    text-align: center;
 }
