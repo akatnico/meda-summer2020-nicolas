@@ -1,0 +1,67 @@
+body {
+    background-color: #FFFFFF;
+}
+
+#container {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: auto;
+    font-family: "Arial";
+}
+
+
+#header {
+    float: left;
+    width: 180px;
+    height: auto;
+    padding-bottom: 10px;
+    border-right-width: thin;
+    border-top-style: none;
+    border-right-style: dotted;
+    border-left-style: none;
+    border-right-color: #000000;
+    border-top-color: #FFFFFF;
+    border-bottom-color: #FFFFFF;
+    border-left-color: #FFFFFF;
+    text-transform: capitalize;
+    clear: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header h1 {
+    font-family: cursive;
+}
+
+#header ul li a {
+    text-transform: capitalize;
+    display: block;
+    font-size: 16;
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+#header ul li a:link {
+    color: #000000;
+    text-decoration: none;
+}
+
+#header ul li a:visited {
+    color: #FF0000;
+}
+
+#header ul li a:hover {
+    color: #0000FF;
+}
+
+#footer {
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: #000000;
+  text-align: center;
+  
+}
