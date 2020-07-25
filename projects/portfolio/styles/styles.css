@@ -30,9 +30,9 @@
     font-size: 32px;
 }
 
+
 #header ul li a {
     text-transform: capitalize;
-    display: block;
     font-size: 16px;
     font-weight: bold;
 }
@@ -64,8 +64,17 @@
 #body img {
     margin-left: 30%;
     margin-right: 30%;
+
 }
 
+#body ul li a {
+    color: #000000;
+    text-decoration: none;
+}
+
+#body ul li a:hover {
+    color: #0000FF;
+}
 
 #footer {
     position: fixed;

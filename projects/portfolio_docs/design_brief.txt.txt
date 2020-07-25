@@ -2,7 +2,7 @@ A) I'll start with the header with Cursive font. This is meant to act as an atte
 
 The main background will be in #FFFFFF. This is to provide a clear contrast from the text. The text for the headers will be #FF0000. The clickable texts(links) will also be in #000000. When you hover over the links with the cursor it'll turn into #0000FF. The body and footer will be in #000000. 
 
-The font sizes will vary. The body text will be in 16. The links will be 16x as well. The h1 in 32 font size and h2 will be 24. 
+The font sizes will vary. The body text will be in 16px. The links will be 16px as well. H1 is 32px and h2 is 24px. 
 
 D) The HOME PAGE will act as the ABOUT ME PAGE and will contain the following text:
 
@@ -10,7 +10,7 @@ ABOUT ME: I am an inspiring web developer and UX designer based out of the Bay A
 
 I am also a recent graduate from the University of California - Santa Cruz. I studied anthropology with concentrations in the sociocultural and linguistic sub-fields. My academic experience in anthropology has provided me with the skill set to conduct research on various aspects of human society through qualitative/quantitative methods in ethnographic accounts. Using my education can complement UX/UI.
 
-PROJECTS PAGE will contain personal projects I have recently worked on.
+PROJECTS PAGE will contain personal projects I have recently worked on. Resume included
 
 CONTACT PAGE will contain my email.
 
