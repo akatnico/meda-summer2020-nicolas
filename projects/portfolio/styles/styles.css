@@ -1,7 +1,6 @@
 #container {
     margin-left: auto;
     margin-right: auto;
-    text-align: auto;
     font-family: "Arial";
 }
 
@@ -28,17 +27,13 @@
 #header h1 {
     font-family: cursive;
     color: #FF0000;
-    font-size: 36;
+    font-size: 32px;
 }
 
 #header ul li a {
     text-transform: capitalize;
     display: block;
-    font-size: 16;
-    margin-block-start: 1.67em;
-    margin-block-end: 1.67em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
+    font-size: 16px;
     font-weight: bold;
 }
 
@@ -56,14 +51,14 @@
     position: absolute;
     margin-left: 30%;
     margin-right: 30%;
-    font-size: 16;
+    font-size: 16px;
 }
 
 #body h2 {
     font-family: cursive;
     text-align: center;
     color: #FF0000;
-    font-size: 36;
+    font-size: 24px;
 }
 
 #body img {
